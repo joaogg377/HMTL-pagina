@@ -1,0 +1,82 @@
+
+.cabeça {
+ padding-left: 40px;
+
+
+
+}
+
+ body {
+   background: #ff69b4; border-color: #ff69b4 20px;
+ }
+
+ .tudo {
+
+ 	background: #141414;
+ 	padding: 30px;
+ }
+
+ p {
+text-align: center;
+ }
+
+ #banner {
+       height: 350px;
+       width:100%;
+ }
+
+ #titulo {
+
+ 	 text-align: center; background: #141414; color: #ff69b4; height: 60px
+ }
+
+ #bar {
+ 	color:#ff69b4; font-size: 23px; height: 20px
+ }
+
+#bar2 {
+	font-size: 23px; color: #ffcbdb
+}
+
+#lore {
+ 	color: #fc0fc0; 
+ 	display: inline-block;
+ 	font-size: 27px;
+ 	padding-right: 10%;
+ }
+
+ #imglore {
+ 	width: 40%
+ }
+
+ #fonte {
+ 	font-size:30px; margin-right: 600px; padding: 39px; padding-top: 50px
+ }
+
+ #apresentação {
+ 	font-size: 20px; color: #db7093
+ }
+
+ #proibição {
+ 	color: #ff0000
+ }
+
+ #beneficios {
+
+ 	font-size: 35px; margin-left: 30px; color: #ce3b6b;
+ 	padding-top: 30px;
+ 	padding: 20px;
+ }
+
+.itens {
+      font-size: 40px; font-style: italic; color: #ff1493
+}
+ ul {
+ 	display: inline-block;
+ 	vertical-align: top;
+ 	width: 40%
+ }
+
+ .imagembeneficios {
+ 	width: 50%
+ }
